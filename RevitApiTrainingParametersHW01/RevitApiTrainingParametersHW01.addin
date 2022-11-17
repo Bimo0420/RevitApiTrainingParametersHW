@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Users\MVLL\OneDrive - МегаМейд\VAA\ITMO\APPS 4 RVT\_НАСТРОЙКА ПРОЕКТА\DLL\RevitApiTrainingParametersHW01.dll"</Assembly>
+		<AddInId>13FFEEA3-1F97-42BF-960D-A67504E6F7DE</AddInId>
+		<FullClassName>RevitApiTrainingParametersHW01.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>3.1 ОБЪЁМ ВЫБРАННЫХ СТЕН</Text>
+	</AddIn>
+</RevitAddIns>
